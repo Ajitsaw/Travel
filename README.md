@@ -1,4 +1,4 @@
-# Travel Journal
+# Travel Journal (React App)
 
 ## What is the use of this Repo
 
